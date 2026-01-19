@@ -29,4 +29,10 @@ console.log("Function result:",result)
 //simple backend login
 const admin ={
     username: "admin",
+    password: "1234"
+};
+function login(username,password){
+    
+
 }
+ 
